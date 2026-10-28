@@ -1,94 +1,92 @@
 # 🚀 TeluguSQLGuy | Instagram SQL Series
 
 <p align="center">
-  <strong>Learn SQL One Reel at a Time! 💻</strong>
+  <strong>ఒక్కో Reel తో ఒక్కో SQL Concept నేర్చుకుందాం! 💻</strong>
   <br/>
   Practical SQL Examples • Oracle SQL • Interview Preparation
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-SQL%20Reels-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram SQL Reels"/>
+  <a href="https://www.youtube.com/@TeluguSQLGuy">
+    <img src="https://img.shields.io/badge/YouTube-TeluguSQLGuy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="TeluguSQLGuy on YouTube"/>
   </a>
-  <img src="https://img.shields.io/badge/Database-Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
-  <img src="https://img.shields.io/badge/Language-SQL-00758F?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Beginner-Friendly-00C853?style=for-the-badge" alt="Beginner Friendly"/>
+  <a href="https://github.com/TeluguSQLGuy/Instagram_SQL_Series">
+    <img src="https://img.shields.io/badge/GitHub-Instagram_SQL_Series-181717?style=for-the-badge&logo=github&logoColor=white" alt="Instagram SQL Series on GitHub"/>
+  </a>
+  <a href="https://youtube.com/playlist?list=PLdCdJZHFtupE&si=Pq3jKJWQ3_65YmlT">
+    <img src="https://img.shields.io/badge/YouTube-SQL_Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="SQL playlist"/>
+  </a>
+  <img src="https://img.shields.io/badge/Database-Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
 </p>
 
 ---
 
-## 👋 Welcome to the SQL Learning Journey!
+## 👋 SQL Learning Journey కి స్వాగతం!
 
-Want to learn SQL through simple examples instead of complicated explanations?
+Complicated explanations లేకుండా, simple examples తో SQL నేర్చుకోవాలనుకుంటున్నారా?
 
-**You're in the right place! 🎯**
+**అయితే ఈ repository మీ కోసమే! 🎯**
 
-Welcome to the **TeluguSQLGuy Instagram SQL Series** — a practical learning repository designed to help beginners understand SQL concepts through real-world examples, sample datasets, and easy-to-follow queries.
+ఇది **TeluguSQLGuy Instagram SQL Series** కోసం రూపొందించిన practical learning repository. ప్రతి Reel లో explain చేసే SQL concepts కి సంబంధించిన Oracle SQL scripts, sample data, easy-to-follow queries ఇక్కడ practice చేయవచ్చు.
 
-We connect familiar spreadsheet calculations with SQL, making it easier to understand how database queries work.
+Excel లో calculation ఎలా జరుగుతుందో చూసి, అదే logic ని SQL లో ఎలా implement చేయాలో నేర్చుకుందాం.
 
-🎬 Watch the Reel.  
-💻 Run the SQL query.  
-🧠 Understand the concept.  
-🚀 Practise until you're confident!
+🎬 Reel చూడండి.  
+💻 SQL query run చేయండి.  
+🧠 Concept అర్థం చేసుకోండి.  
+🚀 మీరే practice చేయండి!
 
-## 📚 What's Inside?
+## 📚 ఈ Repository లో ఏముంటాయి?
 
 - ✅ Practical Oracle SQL examples
-- ✅ Sample tables and insert scripts
+- ✅ Sample tables మరియు `INSERT` scripts
 - ✅ Easy-to-understand SQL queries
-- ✅ Excel-to-SQL learning examples
+- ✅ Excel-to-SQL examples
 - ✅ Common SQL interview concepts
-- ✅ Beginner-friendly explanations
+- ✅ Beginners కోసం simple explanations
 
 ## 🗺️ SQL Functions Series — Episode Roadmap
 
 | Episode | Topic | What You'll Learn |
 |:---:|---|---|
-| 01 | `SUM()` | Calculate total marks for each student |
-| 02 | `AVG()` | Calculate average marks for each student |
-| 03 | `COUNT()` | Count rows and non-NULL values |
-| 04 | `MIN()` & `MAX()` | Find minimum and maximum values |
-| 05 | `ROUND()` | Round numeric values |
-| 06 | `UPPER()` & `LOWER()` | Change text case |
-| 07 | `LENGTH()` | Find the length of a string |
-| 08 | `SUBSTR()` | Extract part of a string |
+| 01 | `SUM()` | ప్రతి Student కి Total Marks calculate చేయడం |
+| 02 | `AVG()` | ప్రతి Student కి Average Marks calculate చేయడం |
+| 03 | `COUNT()` | Rows మరియు non-`NULL` values count చేయడం |
+| 04 | `MIN()` & `MAX()` | Minimum మరియు maximum values కనుక్కోవడం |
+| 05 | `ROUND()` | Numeric values round చేయడం |
+| 06 | `UPPER()` & `LOWER()` | Text case మార్చడం |
+| 07 | `LENGTH()` | String length కనుక్కోవడం |
+| 08 | `SUBSTR()` | String లోని కొంత భాగాన్ని extract చేయడం |
 
-*More episodes and SQL concepts will be added as the series grows.*
+*Series పెరుగుతున్న కొద్దీ మరిన్ని Episodes add చేస్తాం.*
 
-## 🛠️ Getting Started
+## 🛠️ Getting Started — ఎలా Practice చేయాలి?
 
-You don't need an advanced setup to start practising!
+Advanced setup అవసరం లేదు. Practice చేయడానికి Oracle Database access మరియు Oracle SQL Developer లేదా మరొక Oracle-compatible SQL client ఉంటే సరిపోతుంది.
 
-### Requirements
-
-- Oracle Database access
-- Oracle SQL Developer or another Oracle-compatible SQL client
-- Basic understanding of tables and columns
-
-### Step 1: Clone the Repository
+### Step 1: Repository Clone చేయండి
 
 ```bash
 git clone https://github.com/TeluguSQLGuy/Instagram_SQL_Series.git
 ```
 
-### Step 2: Open the Project
+### Step 2: SQL Script Open చేయండి
 
-Open the downloaded repository folder and choose the SQL script for the episode you want to practise.
+మీరు practice చేయాలనుకునే Episode `.sql` file open చేయండి.
 
-### Step 3: Run the SQL Script
+### Step 3: Script Run చేయండి
 
-Execute the table creation and sample data statements first, followed by the query demonstrated in the Reel.
+ముందుగా table creation మరియు sample data statements run చేసి, తర్వాత Reel లో చూపించిన main query run చేయండి.
 
-### Step 4: Experiment!
+### Step 4: Experiment చేయండి!
 
-Change the sample values, modify the query, and observe how the output changes.
+Sample values మార్చండి, query ని modify చేయండి, output ఎలా మారుతుందో observe చేయండి.
 
-**That's how you learn SQL by doing! 💪**
+**Practice చేస్తూ నేర్చుకోవడమే best way! 💪**
 
 ## 📊 Sample Dataset — Student Marks
 
-Our initial examples use a simple student marks table.
+మన initial examples కోసం ఈ `MARKS` sample table ఉపయోగిస్తాం.
 
 | STUDENT | SUBJECT | MARKS |
 |---|---|---:|
@@ -105,83 +103,15 @@ Our initial examples use a simple student marks table.
 | Naresh | Math | 0 |
 | Naresh | Telugu | 60 |
 
-This dataset helps demonstrate aggregate functions, `GROUP BY`, `NULL` handling, and zero values.
+ఈ dataset తో aggregate functions, `GROUP BY`, `NULL` handling మరియు zero values మధ్య difference practice చేయవచ్చు.
 
-## 💡 Example: SUM() Function
+## 💡 Example: `SUM()` Function
 
-Want to calculate each student's total marks?
+ప్రతి Student కి Total Marks calculate చేయడానికి:
 
 ```sql
 SELECT
     STUDENT,
     SUM(MARKS) AS TOTAL_MARKS
 FROM MARKS
-GROUP BY STUDENT
-ORDER BY STUDENT;
-```
-
-### Expected Output
-
-| STUDENT | TOTAL_MARKS |
-|---|---:|
-| Mahesh | 90 |
-| Naresh | 60 |
-| Ramesh | 228 |
-| Suresh | 223 |
-
-**What does this query do?**
-
-- `SUM(MARKS)` calculates the sum of non-NULL marks.
-- `GROUP BY STUDENT` calculates a separate total for each student.
-- `ORDER BY STUDENT` sorts the results alphabetically.
-
-## 🎯 Who Is This Repository For?
-
-👶 **SQL Beginners** — Start with simple, practical examples.
-
-🎓 **Students** — Understand SQL functions using familiar data.
-
-💼 **Job Seekers** — Revise useful SQL concepts for interviews.
-
-👨‍💻 **Working Professionals** — Refresh your SQL fundamentals.
-
-## 📱 Follow the Instagram Series
-
-Enjoy learning SQL through short, practical tutorials?
-
-Follow **TeluguSQLGuy** for SQL concepts explained in Telugu with English technical terminology.
-
-<p align="center">
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Follow%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/>
-  </a>
-</p>
-
-💡 Watch each Reel, practise the corresponding SQL script, and build your skills one concept at a time.
-
-## 🤝 Contributions & Suggestions
-
-Have an idea for the next SQL function or interview question?
-
-- Explore the existing scripts.
-- Suggest new topics through GitHub Issues.
-- Share improvements that make the examples easier to understand.
-
-Let's make SQL learning simpler for everyone!
-
-## ⭐ Support the Project
-
-If this repository helps you learn SQL:
-
-- ⭐ Star this repository.
-- 🔁 Share it with someone learning SQL.
-- 📱 Follow TeluguSQLGuy for upcoming lessons.
-- 💬 Suggest the next topic you'd like to learn.
-
----
-
-<p align="center">
-  <strong>Learn SQL. Practise Daily. Grow Together. 🚀</strong>
-  <br/>
-  <em>TeluguSQLGuy — Making SQL Simple, One Reel at a Time!</em>
-</p>
+GROUP BY STUD
