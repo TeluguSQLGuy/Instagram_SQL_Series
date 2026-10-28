@@ -166,7 +166,7 @@ ORDER BY STUDENT;
 - **Instagram SQL Series Scripts:** [GitHub Repository](https://github.com/TeluguSQLGuy/Instagram_SQL_Series)
 - **SQL / LeetCode Repository:** [GitHub — Leetcode](https://github.com/TeluguSQLGuy/Leetcode)
 - **YouTube Playlist:** [Watch the SQL Playlist](https://youtube.com/playlist?list=PLdCdJZHFtupE&si=Pq3jKJWQ3_65YmlT)
-- **Blogger:** https://telugusqlguy.blogspot.com/ [Blogger](https://telugusqlguy.blogspot.com/)
+- **Blogger:** [Blogger](https://telugusqlguy.blogspot.com/)
 
 Watch each Reel, practice the matching SQL script, and build your skills one concept at a time.
 
