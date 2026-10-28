@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="Assets/telugusqlguy-banner.png"
+    alt="TeluguSQLGuy Instagram SQL Series"
+    width="100%"
+  />
+</p>
+
 # 🚀 TeluguSQLGuy | Instagram SQL Series
 
 <p align="center">
